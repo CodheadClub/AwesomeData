@@ -1,7 +1,7 @@
 <div align="center">
 <img style="width:45%" src="imgs/tcclogo.jpg" />
 
-# Awesome Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Data [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 </div>
 
 ## Contents
