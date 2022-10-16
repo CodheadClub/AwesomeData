@@ -26,6 +26,10 @@ Contributions welcome. If you have a resource that you wish to contribute, pleas
 
 If you're not sure how to contribute, you can join our [discord](https://discord.gg/DmHbB2PpVn) or [telegram](https://t.me/codheadclub) for more clarification. Alternatively, Fork the repo and make a PR or [jump straight in with VS Code for Github](https://github.dev/CodheadClub/AwesomeData). See [here](https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor) for more info.
 
+## Census
+1. [Initial Findings from Census 2021](https://www.ons.gov.uk/releases/initialfindingsfromthe2021censusinenglandandwales)
+   - 1.1. [Full Dataset from Census 2021](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationandhouseholdestimatesenglandandwalescensus2021)
+
 ## Suicide Stats <a name="suicide"></a>
 1. [Suicides in the UK: 2011 registrations](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/suicidesintheunitedkingdom/2013-01-22)
 2. [Suicides in the UK: 2012 registrations](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/suicidesintheunitedkingdom/2014-02-18)
